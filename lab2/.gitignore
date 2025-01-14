@@ -1,2 +1,3 @@
 .codegpt
 .ipynb_checkpoints
+/data/fashion_mnist.csv
